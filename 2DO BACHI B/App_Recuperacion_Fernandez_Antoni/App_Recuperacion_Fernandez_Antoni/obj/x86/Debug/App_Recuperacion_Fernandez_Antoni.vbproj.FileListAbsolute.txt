@@ -1,9 +1,0 @@
-F:\2DO BACHI B\App_Recuperacion_Fernandez_Antoni\App_Recuperacion_Fernandez_Antoni\bin\Debug\App_Recuperacion_Fernandez_Antoni.exe
-F:\2DO BACHI B\App_Recuperacion_Fernandez_Antoni\App_Recuperacion_Fernandez_Antoni\bin\Debug\App_Recuperacion_Fernandez_Antoni.pdb
-F:\2DO BACHI B\App_Recuperacion_Fernandez_Antoni\App_Recuperacion_Fernandez_Antoni\bin\Debug\App_Recuperacion_Fernandez_Antoni.xml
-F:\2DO BACHI B\App_Recuperacion_Fernandez_Antoni\App_Recuperacion_Fernandez_Antoni\obj\x86\Debug\App_Recuperacion_Fernandez_Antoni.frm_recuperacion.resources
-F:\2DO BACHI B\App_Recuperacion_Fernandez_Antoni\App_Recuperacion_Fernandez_Antoni\obj\x86\Debug\App_Recuperacion_Fernandez_Antoni.Resources.resources
-F:\2DO BACHI B\App_Recuperacion_Fernandez_Antoni\App_Recuperacion_Fernandez_Antoni\obj\x86\Debug\App_Recuperacion_Fernandez_Antoni.vbproj.GenerateResource.Cache
-F:\2DO BACHI B\App_Recuperacion_Fernandez_Antoni\App_Recuperacion_Fernandez_Antoni\obj\x86\Debug\App_Recuperacion_Fernandez_Antoni.exe
-F:\2DO BACHI B\App_Recuperacion_Fernandez_Antoni\App_Recuperacion_Fernandez_Antoni\obj\x86\Debug\App_Recuperacion_Fernandez_Antoni.xml
-F:\2DO BACHI B\App_Recuperacion_Fernandez_Antoni\App_Recuperacion_Fernandez_Antoni\obj\x86\Debug\App_Recuperacion_Fernandez_Antoni.pdb
