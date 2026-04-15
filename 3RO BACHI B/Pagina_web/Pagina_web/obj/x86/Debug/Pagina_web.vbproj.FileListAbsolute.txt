@@ -1,0 +1,36 @@
+E:\3bachiB\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.ACCESORIOS.resources
+E:\3bachiB\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.catálogo_virtual.resources
+E:\3bachiB\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.COBIJAS.resources
+E:\3bachiB\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.CREACIÓN_DE_TUS_PRENDAS.resources
+E:\3bachiB\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.Form1.resources
+E:\3bachiB\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.Resources.resources
+E:\3bachiB\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.PANTALONES.resources
+E:\3bachiB\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.PROCESO_DE_COMPRASvb.resources
+E:\3bachiB\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.SOMBREROS.resources
+E:\3bachiB\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.ZAPATOS.resources
+E:\3bachiB\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.vbproj.GenerateResource.Cache
+E:\3bachiB\Pagina_web\Pagina_web\bin\Debug\Pagina_web.exe
+E:\3bachiB\Pagina_web\Pagina_web\bin\Debug\Pagina_web.pdb
+E:\3bachiB\Pagina_web\Pagina_web\bin\Debug\Pagina_web.xml
+E:\3bachiB\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.CAMISAS.resources
+E:\3bachiB\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.exe
+E:\3bachiB\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.xml
+E:\3bachiB\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.pdb
+F:\3ro Bachi B\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.exe
+F:\3ro Bachi B\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.xml
+F:\3ro Bachi B\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.pdb
+F:\3ro Bachi B\Pagina_web\Pagina_web\bin\Debug\Pagina_web.exe
+F:\3ro Bachi B\Pagina_web\Pagina_web\bin\Debug\Pagina_web.pdb
+F:\3ro Bachi B\Pagina_web\Pagina_web\bin\Debug\Pagina_web.xml
+F:\3ro Bachi B\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.ACCESORIOS.resources
+F:\3ro Bachi B\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.CAMISAS.resources
+F:\3ro Bachi B\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.catálogo_virtual.resources
+F:\3ro Bachi B\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.COBIJAS.resources
+F:\3ro Bachi B\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.CREACIÓN_DE_TUS_PRENDAS.resources
+F:\3ro Bachi B\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.Form1.resources
+F:\3ro Bachi B\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.Resources.resources
+F:\3ro Bachi B\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.PANTALONES.resources
+F:\3ro Bachi B\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.PROCESO_DE_COMPRASvb.resources
+F:\3ro Bachi B\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.SOMBREROS.resources
+F:\3ro Bachi B\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.ZAPATOS.resources
+F:\3ro Bachi B\Pagina_web\Pagina_web\obj\x86\Debug\Pagina_web.vbproj.GenerateResource.Cache

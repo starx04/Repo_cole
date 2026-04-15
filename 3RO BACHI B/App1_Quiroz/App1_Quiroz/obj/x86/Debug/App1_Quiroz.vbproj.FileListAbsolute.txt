@@ -1,0 +1,30 @@
+C:\Users\aueld-user-02\AppData\Local\Temporary Projects\App1_Quiroz\bin\Debug\App1_Quiroz.exe
+C:\Users\aueld-user-02\AppData\Local\Temporary Projects\App1_Quiroz\bin\Debug\App1_Quiroz.pdb
+C:\Users\aueld-user-02\AppData\Local\Temporary Projects\App1_Quiroz\bin\Debug\App1_Quiroz.xml
+C:\Users\aueld-user-02\AppData\Local\Temporary Projects\App1_Quiroz\obj\x86\Debug\App1_Quiroz.Form1.resources
+C:\Users\aueld-user-02\AppData\Local\Temporary Projects\App1_Quiroz\obj\x86\Debug\App1_Quiroz.Resources.resources
+C:\Users\aueld-user-02\AppData\Local\Temporary Projects\App1_Quiroz\obj\x86\Debug\App1_Quiroz.vbproj.GenerateResource.Cache
+C:\Users\aueld-user-02\AppData\Local\Temporary Projects\App1_Quiroz\obj\x86\Debug\App1_Quiroz.exe
+C:\Users\aueld-user-02\AppData\Local\Temporary Projects\App1_Quiroz\obj\x86\Debug\App1_Quiroz.xml
+C:\Users\aueld-user-02\AppData\Local\Temporary Projects\App1_Quiroz\obj\x86\Debug\App1_Quiroz.pdb
+D:\3ro Bachi B\App1_Quiroz\App1_Quiroz\obj\x86\Debug\App1_Quiroz.exe
+D:\3ro Bachi B\App1_Quiroz\App1_Quiroz\obj\x86\Debug\App1_Quiroz.xml
+D:\3ro Bachi B\App1_Quiroz\App1_Quiroz\obj\x86\Debug\App1_Quiroz.pdb
+D:\3ro Bachi B\App1_Quiroz\App1_Quiroz\bin\Debug\App1_Quiroz.exe
+D:\3ro Bachi B\App1_Quiroz\App1_Quiroz\bin\Debug\App1_Quiroz.pdb
+D:\3ro Bachi B\App1_Quiroz\App1_Quiroz\bin\Debug\App1_Quiroz.xml
+D:\3ro Bachi B\App1_Quiroz\App1_Quiroz\obj\x86\Debug\App1_Quiroz.Form1.resources
+D:\3ro Bachi B\App1_Quiroz\App1_Quiroz\obj\x86\Debug\App1_Quiroz.Resources.resources
+D:\3ro Bachi B\App1_Quiroz\App1_Quiroz\obj\x86\Debug\App1_Quiroz.vbproj.GenerateResource.Cache
+G:\3ro Bachi B\App1_Quiroz\App1_Quiroz\obj\x86\Debug\App1_Quiroz.exe
+G:\3ro Bachi B\App1_Quiroz\App1_Quiroz\obj\x86\Debug\App1_Quiroz.xml
+G:\3ro Bachi B\App1_Quiroz\App1_Quiroz\obj\x86\Debug\App1_Quiroz.pdb
+G:\3ro Bachi B\App1_Quiroz\App1_Quiroz\bin\Debug\App1_Quiroz.exe
+G:\3ro Bachi B\App1_Quiroz\App1_Quiroz\bin\Debug\App1_Quiroz.pdb
+G:\3ro Bachi B\App1_Quiroz\App1_Quiroz\bin\Debug\App1_Quiroz.xml
+G:\3ro Bachi B\App1_Quiroz\App1_Quiroz\obj\x86\Debug\App1_Quiroz.Form1.resources
+G:\3ro Bachi B\App1_Quiroz\App1_Quiroz\obj\x86\Debug\App1_Quiroz.Resources.resources
+G:\3ro Bachi B\App1_Quiroz\App1_Quiroz\obj\x86\Debug\App1_Quiroz.vbproj.GenerateResource.Cache
+F:\3ro Bachi B\App1_Quiroz\App1_Quiroz\obj\x86\Debug\App1_Quiroz.exe
+F:\3ro Bachi B\App1_Quiroz\App1_Quiroz\obj\x86\Debug\App1_Quiroz.xml
+F:\3ro Bachi B\App1_Quiroz\App1_Quiroz\obj\x86\Debug\App1_Quiroz.pdb

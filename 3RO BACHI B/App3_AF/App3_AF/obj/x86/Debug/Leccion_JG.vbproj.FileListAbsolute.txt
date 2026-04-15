@@ -1,0 +1,9 @@
+D:\3ro Bachi B\App3_AF\App3_AF\bin\Debug\App3_AF.exe
+D:\3ro Bachi B\App3_AF\App3_AF\bin\Debug\App3_AF.pdb
+D:\3ro Bachi B\App3_AF\App3_AF\bin\Debug\App3_AF.xml
+D:\3ro Bachi B\App3_AF\App3_AF\obj\x86\Debug\App3_AF.Form1.resources
+D:\3ro Bachi B\App3_AF\App3_AF\obj\x86\Debug\App3_AF.Resources.resources
+D:\3ro Bachi B\App3_AF\App3_AF\obj\x86\Debug\Leccion_JG.vbproj.GenerateResource.Cache
+D:\3ro Bachi B\App3_AF\App3_AF\obj\x86\Debug\App3_AF.exe
+D:\3ro Bachi B\App3_AF\App3_AF\obj\x86\Debug\App3_AF.xml
+D:\3ro Bachi B\App3_AF\App3_AF\obj\x86\Debug\App3_AF.pdb

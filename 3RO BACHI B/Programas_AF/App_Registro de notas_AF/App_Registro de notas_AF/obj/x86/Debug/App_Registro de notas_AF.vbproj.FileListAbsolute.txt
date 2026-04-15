@@ -1,0 +1,18 @@
+C:\Users\UELD-USER-22\AppData\Local\Temporary Projects\App_Registro de notas_AF\bin\Debug\App_Registro de notas_AF.exe
+C:\Users\UELD-USER-22\AppData\Local\Temporary Projects\App_Registro de notas_AF\bin\Debug\App_Registro de notas_AF.pdb
+C:\Users\UELD-USER-22\AppData\Local\Temporary Projects\App_Registro de notas_AF\bin\Debug\App_Registro de notas_AF.xml
+C:\Users\UELD-USER-22\AppData\Local\Temporary Projects\App_Registro de notas_AF\obj\x86\Debug\App_Registro_de_notas_AF.Form1.resources
+C:\Users\UELD-USER-22\AppData\Local\Temporary Projects\App_Registro de notas_AF\obj\x86\Debug\App_Registro_de_notas_AF.Resources.resources
+C:\Users\UELD-USER-22\AppData\Local\Temporary Projects\App_Registro de notas_AF\obj\x86\Debug\App_Registro de notas_AF.vbproj.GenerateResource.Cache
+C:\Users\UELD-USER-22\AppData\Local\Temporary Projects\App_Registro de notas_AF\obj\x86\Debug\App_Registro de notas_AF.exe
+C:\Users\UELD-USER-22\AppData\Local\Temporary Projects\App_Registro de notas_AF\obj\x86\Debug\App_Registro de notas_AF.xml
+C:\Users\UELD-USER-22\AppData\Local\Temporary Projects\App_Registro de notas_AF\obj\x86\Debug\App_Registro de notas_AF.pdb
+F:\2BachiB\App_Registro de notas_AF\App_Registro de notas_AF\obj\x86\Debug\App_Registro de notas_AF.exe
+F:\2BachiB\App_Registro de notas_AF\App_Registro de notas_AF\obj\x86\Debug\App_Registro de notas_AF.xml
+F:\2BachiB\App_Registro de notas_AF\App_Registro de notas_AF\obj\x86\Debug\App_Registro de notas_AF.pdb
+E:\2BachiB\App_Registro de notas_AF\App_Registro de notas_AF\obj\x86\Debug\App_Registro de notas_AF.exe
+E:\2BachiB\App_Registro de notas_AF\App_Registro de notas_AF\obj\x86\Debug\App_Registro de notas_AF.xml
+E:\2BachiB\App_Registro de notas_AF\App_Registro de notas_AF\obj\x86\Debug\App_Registro de notas_AF.pdb
+F:\3ro Bachi B\App_Registro de notas_AF\App_Registro de notas_AF\obj\x86\Debug\App_Registro de notas_AF.exe
+F:\3ro Bachi B\App_Registro de notas_AF\App_Registro de notas_AF\obj\x86\Debug\App_Registro de notas_AF.xml
+F:\3ro Bachi B\App_Registro de notas_AF\App_Registro de notas_AF\obj\x86\Debug\App_Registro de notas_AF.pdb
