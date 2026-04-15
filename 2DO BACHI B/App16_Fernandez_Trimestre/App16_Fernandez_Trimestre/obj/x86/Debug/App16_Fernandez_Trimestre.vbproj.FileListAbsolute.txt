@@ -1,0 +1,21 @@
+C:\Users\Clon\AppData\Local\Temporary Projects\App16_Fernandez_Trimestre\bin\Debug\App16_Fernandez_Trimestre.exe
+C:\Users\Clon\AppData\Local\Temporary Projects\App16_Fernandez_Trimestre\bin\Debug\App16_Fernandez_Trimestre.pdb
+C:\Users\Clon\AppData\Local\Temporary Projects\App16_Fernandez_Trimestre\bin\Debug\App16_Fernandez_Trimestre.xml
+C:\Users\Clon\AppData\Local\Temporary Projects\App16_Fernandez_Trimestre\obj\x86\Debug\App16_Fernandez_Trimestre.frm_trimestre.resources
+C:\Users\Clon\AppData\Local\Temporary Projects\App16_Fernandez_Trimestre\obj\x86\Debug\App16_Fernandez_Trimestre.Resources.resources
+C:\Users\Clon\AppData\Local\Temporary Projects\App16_Fernandez_Trimestre\obj\x86\Debug\App16_Fernandez_Trimestre.vbproj.GenerateResource.Cache
+C:\Users\Clon\AppData\Local\Temporary Projects\App16_Fernandez_Trimestre\obj\x86\Debug\App16_Fernandez_Trimestre.exe
+C:\Users\Clon\AppData\Local\Temporary Projects\App16_Fernandez_Trimestre\obj\x86\Debug\App16_Fernandez_Trimestre.xml
+C:\Users\Clon\AppData\Local\Temporary Projects\App16_Fernandez_Trimestre\obj\x86\Debug\App16_Fernandez_Trimestre.pdb
+D:\2DO BACHI B\App16_Fernandez_Trimestre\App16_Fernandez_Trimestre\obj\x86\Debug\App16_Fernandez_Trimestre.exe
+D:\2DO BACHI B\App16_Fernandez_Trimestre\App16_Fernandez_Trimestre\obj\x86\Debug\App16_Fernandez_Trimestre.xml
+D:\2DO BACHI B\App16_Fernandez_Trimestre\App16_Fernandez_Trimestre\obj\x86\Debug\App16_Fernandez_Trimestre.pdb
+F:\2DO BACHI B\App16_Fernandez_Trimestre\App16_Fernandez_Trimestre\obj\x86\Debug\App16_Fernandez_Trimestre.exe
+F:\2DO BACHI B\App16_Fernandez_Trimestre\App16_Fernandez_Trimestre\obj\x86\Debug\App16_Fernandez_Trimestre.xml
+F:\2DO BACHI B\App16_Fernandez_Trimestre\App16_Fernandez_Trimestre\obj\x86\Debug\App16_Fernandez_Trimestre.pdb
+F:\2DO BACHI B\App16_Fernandez_Trimestre\App16_Fernandez_Trimestre\bin\Debug\App16_Fernandez_Trimestre.exe
+F:\2DO BACHI B\App16_Fernandez_Trimestre\App16_Fernandez_Trimestre\bin\Debug\App16_Fernandez_Trimestre.pdb
+F:\2DO BACHI B\App16_Fernandez_Trimestre\App16_Fernandez_Trimestre\bin\Debug\App16_Fernandez_Trimestre.xml
+F:\2DO BACHI B\App16_Fernandez_Trimestre\App16_Fernandez_Trimestre\obj\x86\Debug\App16_Fernandez_Trimestre.frm_trimestre.resources
+F:\2DO BACHI B\App16_Fernandez_Trimestre\App16_Fernandez_Trimestre\obj\x86\Debug\App16_Fernandez_Trimestre.Resources.resources
+F:\2DO BACHI B\App16_Fernandez_Trimestre\App16_Fernandez_Trimestre\obj\x86\Debug\App16_Fernandez_Trimestre.vbproj.GenerateResource.Cache
