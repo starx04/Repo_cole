@@ -1,0 +1,12 @@
+C:\Users\Clon\AppData\Local\Temporary Projects\App11_Fernandez\bin\Debug\App11_Fernandez.exe
+C:\Users\Clon\AppData\Local\Temporary Projects\App11_Fernandez\bin\Debug\App11_Fernandez.pdb
+C:\Users\Clon\AppData\Local\Temporary Projects\App11_Fernandez\bin\Debug\App11_Fernandez.xml
+C:\Users\Clon\AppData\Local\Temporary Projects\App11_Fernandez\obj\x86\Debug\App11_Fernandez.frm_ingreso.resources
+C:\Users\Clon\AppData\Local\Temporary Projects\App11_Fernandez\obj\x86\Debug\App11_Fernandez.Resources.resources
+C:\Users\Clon\AppData\Local\Temporary Projects\App11_Fernandez\obj\x86\Debug\App11_Fernandez.vbproj.GenerateResource.Cache
+C:\Users\Clon\AppData\Local\Temporary Projects\App11_Fernandez\obj\x86\Debug\App11_Fernandez.exe
+C:\Users\Clon\AppData\Local\Temporary Projects\App11_Fernandez\obj\x86\Debug\App11_Fernandez.xml
+C:\Users\Clon\AppData\Local\Temporary Projects\App11_Fernandez\obj\x86\Debug\App11_Fernandez.pdb
+D:\2DO BACHI B\App11_Fernandez\App11_Fernandez\obj\x86\Debug\App11_Fernandez.exe
+D:\2DO BACHI B\App11_Fernandez\App11_Fernandez\obj\x86\Debug\App11_Fernandez.xml
+D:\2DO BACHI B\App11_Fernandez\App11_Fernandez\obj\x86\Debug\App11_Fernandez.pdb

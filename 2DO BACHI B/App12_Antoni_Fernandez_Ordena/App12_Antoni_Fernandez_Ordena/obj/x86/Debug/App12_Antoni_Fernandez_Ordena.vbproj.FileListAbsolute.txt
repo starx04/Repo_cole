@@ -1,0 +1,36 @@
+C:\Users\Clon\AppData\Local\Temporary Projects\App12_Antoni_Fernandez_Ordena\bin\Debug\App12_Antoni_Fernandez_Ordena.exe
+C:\Users\Clon\AppData\Local\Temporary Projects\App12_Antoni_Fernandez_Ordena\bin\Debug\App12_Antoni_Fernandez_Ordena.pdb
+C:\Users\Clon\AppData\Local\Temporary Projects\App12_Antoni_Fernandez_Ordena\bin\Debug\App12_Antoni_Fernandez_Ordena.xml
+C:\Users\Clon\AppData\Local\Temporary Projects\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.Form1.resources
+C:\Users\Clon\AppData\Local\Temporary Projects\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.Resources.resources
+C:\Users\Clon\AppData\Local\Temporary Projects\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.vbproj.GenerateResource.Cache
+C:\Users\Clon\AppData\Local\Temporary Projects\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.exe
+C:\Users\Clon\AppData\Local\Temporary Projects\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.xml
+C:\Users\Clon\AppData\Local\Temporary Projects\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.pdb
+D:\2DO BACHI B\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.exe
+D:\2DO BACHI B\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.xml
+D:\2DO BACHI B\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.pdb
+D:\2DO BACHI B\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\bin\Debug\App12_Antoni_Fernandez_Ordena.exe
+D:\2DO BACHI B\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\bin\Debug\App12_Antoni_Fernandez_Ordena.pdb
+D:\2DO BACHI B\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\bin\Debug\App12_Antoni_Fernandez_Ordena.xml
+D:\2DO BACHI B\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.frm_palabra.resources
+D:\2DO BACHI B\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.frm_bien.resources
+D:\2DO BACHI B\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.frm_mal.resources
+D:\2DO BACHI B\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.Resources.resources
+D:\2DO BACHI B\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.vbproj.GenerateResource.Cache
+C:\Users\Clon\Documents\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.exe
+C:\Users\Clon\Documents\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.xml
+C:\Users\Clon\Documents\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.pdb
+C:\Users\Clon\Documents\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\bin\Debug\App12_Antoni_Fernandez_Ordena.exe
+C:\Users\Clon\Documents\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\bin\Debug\App12_Antoni_Fernandez_Ordena.pdb
+C:\Users\Clon\Documents\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\bin\Debug\App12_Antoni_Fernandez_Ordena.xml
+C:\Users\Clon\Documents\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.frm_ordena_palabras.resources
+C:\Users\Clon\Documents\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.frm_palabra.resources
+C:\Users\Clon\Documents\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.frm_bien.resources
+C:\Users\Clon\Documents\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.frm_mal.resources
+C:\Users\Clon\Documents\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.Resources.resources
+C:\Users\Clon\Documents\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.vbproj.GenerateResource.Cache
+D:\2DO BACHI B\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.frm_ordena_palabras.resources
+E:\2DO BACHI B\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.exe
+E:\2DO BACHI B\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.xml
+E:\2DO BACHI B\App12_Antoni_Fernandez_Ordena\App12_Antoni_Fernandez_Ordena\obj\x86\Debug\App12_Antoni_Fernandez_Ordena.pdb
